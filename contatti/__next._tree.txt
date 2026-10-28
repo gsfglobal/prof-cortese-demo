@@ -1,0 +1,5 @@
+:HL["/prof-cortese-demo/_next/static/chunks/1sdtx6nii1ky2.css","style"]
+:HC["/",""]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"contatti","h":64,"c":"$Q2"}]]
+0:{"b":"Gqvnr8Op9D7WiT6Y4l8_T","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

@@ -1,0 +1,25 @@
+2:"$Sreact.fragment"
+3:"/prof-cortese-demo/_next/static/chunks/02ax48c-h0ggm.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+a:I[97367,["$3"],"OutletBoundary"]
+b:"$Sreact.suspense"
+e:"ViewportBoundary"
+f:I[97367,["$3"],"$e"]
+10:"MetadataBoundary"
+11:I[97367,["$3"],"$10"]
+12:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[[["$","section",null,{"className":"container-x pb-16 pt-10 lg:pb-24 lg:pt-16","children":[["$","div",null,{"className":"grid gap-10 lg:grid-cols-12","children":[["$","div",null,{"className":"lg:col-span-8","children":[["$","p",null,{"className":"label fade-up","children":"Documento in bozza"}],["$","h1",null,{"className":"split split-load display-xl mt-5 text-ink","style":{"--d":"80ms"},"children":[["$","$2","0",{"children":[false,["$","span",null,{"className":"block ","children":[["$","span","0",{"className":"w","children":[["$","span",null,{"style":{"--i":0},"children":"Cookie"}]," "]}],["$","span","1",{"className":"w","children":[["$","span",null,{"style":{"--i":1},"children":"policy"}],false]}]]}]]}]]}]]}],"$undefined"]}],"$undefined",["$","div",null,{"className":"mt-14 h-px bg-ink/10 lg:mt-20"}]]}],["$","section",null,{"className":"container-x pb-28","children":["$","div",null,{"className":"max-w-3xl","children":[["$","div",null,{"className":"border border-bronze/40 bg-bronze/10 p-6 text-sm leading-relaxed text-graphite","children":[["$","p",null,{"className":"font-semibold text-midnight","children":"Bozza non pubblicabile."}],["$","p",null,{"className":"mt-1","children":"Questo testo è un segnaposto strutturale. Deve essere redatto e validato dal titolare del trattamento con il proprio consulente privacy prima della messa online. Nessun dato in questa pagina è definitivo."}]]}],["$","div",null,{"className":"mt-12 space-y-10 text-[1rem] leading-[1.8] text-graphite/85 [&_h2]:font-serif [&_h2]:text-[1.8rem] [&_h2]:leading-tight [&_h2]:text-midnight [&_li]:ml-5 [&_li]:list-disc [&_p]:mt-3 [&_ul]:mt-3","children":[["$","div",null,{"children":[["$","h2",null,{"children":"Stato attuale della demo"}],["$","p",null,{"children":"Questa anteprima non installa cookie di profilazione né strumenti di statistica, non incorpora mappe, video o widget di terze parti e utilizza caratteri tipografici ospitati localmente. Per questo motivo non è presente un banner cookie."}]]}],["$","div",null,{"children":[["$","h2",null,{"children":"Prima della pubblicazione"}],["$","ul",null,{"children":[["$","li",null,{"children":"censire eventuali strumenti aggiunti (statistiche, mappe incorporate, pixel pubblicitari);"}],["$","li",null,{"children":"se presenti cookie non tecnici, attivare un banner conforme alle Linee guida del Garante (giugno 2021);"}],["$","li",null,{"children":["completare la policy con titolare e recapiti: ",["$","span",null,{"className":"bg-bronze/15 px-1 font-medium text-bronze-dark","children":["[","da inserire","]"]}],"."]}]]}]]}]]}]]}]}]],[["$","script","script-0",{"src":"/prof-cortese-demo/_next/static/chunks/361m1ic-qt8cm.js","async":true}]],["$","$La",null,{"children":["$","$b",null,{"name":"Next.MetadataOutlet","children":"$@c"}]}]]}],"p":"$@d","v":null,"s":"$8"}}]]
+1:[["children",{"s":"cookie","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$Lf",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#F7F5F0"}]]}],["$","$L11",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$b",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Cookie policy (bozza) | Prof. Antonio Cortese"}],["$","meta","1",{"name":"description","content":"Prof. Dott. Antonio Cortese, specialista in Chirurgia Maxillo-Facciale e odontoiatra a Napoli: chirurgia ortognatica, chirurgia orale rigenerativa, implantologia e ortodonzia integrata."}],["$","meta","2",{"name":"application-name","content":"Prof. Antonio Cortese"}],["$","meta","3",{"name":"author","content":"Prof. Dott. Antonio Cortese"}],["$","meta","4",{"name":"robots","content":"noindex, nofollow"}],["$","link","5",{"rel":"canonical","href":"https://www.antoniocortesemaxillo.it/cookie/"}],["$","meta","6",{"name":"format-detection","content":"telephone=no, address=no, email=no"}],["$","link","7",{"rel":"icon","href":"/prof-cortese-demo/icon.svg"}],["$","$L12","8",{}]]}]}],null]}],null]}],"p":"$@13","v":null,"s":"$8"}},"a":"$@14","u":"$@15","b":"Gqvnr8Op9D7WiT6Y4l8_T"}
+c:null
+15:true
+8:300
+8:C
+14:0
+6:"$undefined"
+13:"$undefined"
+d:"$undefined"
